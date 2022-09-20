@@ -1,0 +1,15 @@
+{
+    "name": "ufabet login",
+    "theme": "syntax",
+    "version": "0.0.0",
+    "description": "ufabet login ทางเข้า contact UFABET หากกรณีต้องการความช่วยเหลือ เป็นบริการที่ มั่นคงที่สุด เพราะ เว็บพนันยูฟ่าเบท บาคาร่า สล็อต ฝากขั้นต่ำ 20 บาท ตลอด 24 ชม. LINE : @ufa88v3",
+    "keywords": [
+        "ufabet login",
+      
+    ],
+    "repository": "https://github.com/fdgd9999/ufabet-login",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
+}
